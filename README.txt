@@ -1,1 +1,1 @@
-The scrape_stocks.py script scrapes the BIST stock data, sorts the stocks by their P/E and ROI ratios. Stocks with low P/E and high ROI ratios are ranked the highest.
+The scrape_stocks.py script scrapes the BIST stock data from investing.com, sorts the stocks by their P/E and ROI ratios. Stocks with low P/E and high ROI ratios are ranked the highest.
