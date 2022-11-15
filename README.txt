@@ -1,1 +1,1 @@
-This python script scrapes BIST stock data. Then sorts the stocks by ther P/E and ROI values. Stocks with low P/E and high ROI ratios are ranked the highest.
+This python script scrapes BIST stock data. Then sorts the stocks by their P/E and ROI ratios. Stocks with low P/E and high ROI ratios are ranked the highest.
